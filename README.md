@@ -113,3 +113,5 @@ The following videos can help you to know the Enterprise Edition:
 For commercial, keep your source code private/proprietary by purchasing a [Commercial License/Enterprise Edition](https://github.com/SeriaWei/ZKEACMS.Core/wiki/Purchase-commercial-license).
 
 对于商业用途，请通过购买[企业版/Enterprise](http://www.zkea.net/zkeacms/enterprise)来私有化你的源代码。
+
+如果在linux下Build错误 可以使用DOTNET_SYSTEM_NET_HTTP_USESOCKETSHTTPHANDLER=0来修复
